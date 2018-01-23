@@ -20,7 +20,6 @@ education:
   timeperiod: April 2009 - April 2013
   description: Major in Computer Science, Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany.
 
-# skill level goes 0 to 100
 skills:
 - name: PHP
   level: 99
@@ -73,6 +72,5 @@ contact:
   city: Berlin
   website: ebinger.cc
   github: ccebinger
-# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
   lang: en, de
 `
