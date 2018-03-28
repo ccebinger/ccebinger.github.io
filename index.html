@@ -8,7 +8,7 @@
 Datum: Frühsommer 2002
 Aufgabe: Berechnung des Osterdatums anhand Jones' Formel */
 function ostern(jahr) { 
-jahr=window.prompt("Jahr x:","2002");
+//jahr=window.prompt("Jahr x:","2002");
 var a=jahr % 19
 var b=Math.floor(jahr / 100)
 var c=jahr % 100
@@ -41,9 +41,10 @@ Java, Python, Ruby und natürlich PHP. Hierbei verfolgt er sehr gerne den Ansatz
 Programmierung". </p>  
 	        <h2>Github</h2>
 		<p>Carl-Clemens Ebinger hat auf github eine Vielzahl von Projekten Dritter geforked. Dies verrät Einiges darüber, was ihn so beschäftigt.</p> 	
-		<h2>Berechnung des Osterdatums</h2>	
+		<h2>Berechnung des Osterdatums nach Spencer Jones</h2>	
 		<p>Abschließend können können Sie auf dieser Seite das Osterdatum berechnen. Und zwar mit der Osterformel, die erstmals anonym veröffentlicht worden ist, und heute meist Spencer Jones zugeschrieben wird. <a href="https://de.wikipedia.org/wiki/Spencers_Osterformel" target="_blank"> Über diese Formel gibt es neuerdings auch einen Wikipedia-Artikel.</a></p>	
-		<p>Dies soll ein Beispiel für eine Single Page Application sein.</p>
+		<!--- <p>Dies soll ein Beispiel für eine Single Page Application sein.</p> -->
+		<p>Ostern fällt <b>2018</b> auf den <b><script> document.writeln(ostern(2018)); </script></b>
 	
 <hr color="black">
 		<pre>Diese Seite wurde manuell mit vim erstellt. Sie macht Gebrauch von JavaScript.</pre>	
