@@ -6,15 +6,24 @@
     <description>Recent content in Posts on Carl-Clemens Ebinger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 27 Jul 2024 10:00:00 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jul 2024 12:00:00 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berechnnung des Osterdatums - Algorithmus (Spencer Jones/anonym) - Implementation in JavaScript anno 2002</title>
       <link>/posts/ostern/</link>
-      <pubDate>Sat, 27 Jul 2024 10:00:00 +0200</pubDate>
+      <pubDate>Sat, 27 Jul 2024 12:00:00 +0200</pubDate>
       
       <guid>/posts/ostern/</guid>
       <description>Bisher konnte man auf meiner GitHub-Page das Osterdatum berechnen, mittels der Berechnungungsvorschrift, welche Spencer Jones zuerechnet wird&amp;hellip; Wikipedia-Artikel zu Osterdatum.
 Siehe auch ostern.html</description>
+    </item>
+    
+    <item>
+      <title>Primärnutzen: GitHub-Projekte dritter.</title>
+      <link>/posts/prim%C3%A4r/</link>
+      <pubDate>Sat, 27 Jul 2024 11:00:00 +0200</pubDate>
+      
+      <guid>/posts/prim%C3%A4r/</guid>
+      <description>Primär nutze ich GitHub um Projekte Dritter zu forken und aber auch nur um über Releases von Drittprojekten informiert zu werden.</description>
     </item>
     
     <item>
@@ -24,15 +33,6 @@ Siehe auch ostern.html</description>
       
       <guid>/posts/welcome/</guid>
       <description>Herzlich Willkommen auf meiner GitHub-Page. Diese wird im Endeffekt von Microsoft gehostet. Zusätzlich verweisen die TopLevel-Domains ebinger.dev und ebinger.foo mittels HTTP-301-Redirect auf diese Seite. Diese beiden TLDs werden von Google LLC als Registrierungsstele betreut. So dass ich abschließend auf den Datenschutzerklärungen beider Unternehmen (MicroSoft &amp;amp; Google) verweisen möchte.</description>
-    </item>
-    
-    <item>
-      <title>Primärnutzen: GitHub-Projekte dritter.</title>
-      <link>/posts/prim%C3%A4r/</link>
-      <pubDate>Sat, 27 Jul 2024 10:00:00 +0200</pubDate>
-      
-      <guid>/posts/prim%C3%A4r/</guid>
-      <description>Primär nutze ich GitHub um Projekte Dritter zu forken und aber auch nur um über Releases von Drittprojekten informiert zu werden.</description>
     </item>
     
   </channel>
