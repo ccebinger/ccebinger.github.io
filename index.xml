@@ -6,7 +6,16 @@
     <description>Recent content on Carl-Clemens Ebinger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 27 Jul 2024 12:00:00 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jul 2024 13:00:00 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bereitstellen von Schriften für klassisches LaTeX (pdflatex)</title>
+      <link>/posts/ctan/</link>
+      <pubDate>Sat, 27 Jul 2024 13:00:00 +0200</pubDate>
+      
+      <guid>/posts/ctan/</guid>
+      <description>GitHub wird von mir auch genutzt, um git-repos, welche CTAN-Schriftpakete enthalten, zu hosten. Die Liste meiner CTAN-Pakete kann (hier)[https://ctan.org/author/ebinger] eingesehen werden. Hervorzuheben sind hier die Pakete Cascadia Code und Inter.</description>
+    </item>
+    
     <item>
       <title>Berechnnung des Osterdatums - Algorithmus (Spencer Jones/anonym) - Implementation in JavaScript anno 2002</title>
       <link>/posts/ostern/</link>
